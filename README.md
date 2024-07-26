@@ -11,9 +11,6 @@ User-Friendly Interface: Simple and intuitive web interface for easy interaction
 Installation**
 1.Clone the repository:
 
-git clone https://github.com/yourusername/pdf-chatbot.git
-cd pdf-chatbot
-
 2.Install the required packages:
 pip install -r requirements.txt
 
